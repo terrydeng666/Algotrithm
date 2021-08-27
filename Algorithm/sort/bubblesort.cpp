@@ -15,5 +15,6 @@ int main(void) {
     for(int i=0;i<11;i++) {
         std::cout << a[i] << " ";
     }
+    //test
     return 0;
 }
